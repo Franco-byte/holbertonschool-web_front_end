@@ -839,13 +839,13 @@ ul.row {
 /* Comment section
     ============================= */
 
-.post-commnets {
+.post-commets {
   width: 80%;
   margin: 10rem 0 0 auto;
   padding-left: 7rem;
 }
 
-.post-commnets .section-title {
+.post-commets .section-title {
   font-variant: small-caps;
 }
 
